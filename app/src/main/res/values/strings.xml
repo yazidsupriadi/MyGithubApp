@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyGithub</string>
+    <string name="username">Username</string>
+    <string name="detail_github">github_detail</string>
+
+
+</resources>
